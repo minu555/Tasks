@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">yerelleştirme</string>
+    <string name="message">android yerelleştirme örneği</string>
+    <string name="toast">bu bir tost</string>
+    <string name="do_something">bir şey yap</string>
+</resources>

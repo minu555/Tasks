@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="message">example of android localisation</string>
+    <string name="do_something">do something</string>
+    <string name="toast">this is a toast</string>
+</resources>
